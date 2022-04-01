@@ -1,5 +1,3 @@
-
-  
 /**
 * This is the package-info.java file.
 *
